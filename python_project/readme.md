@@ -29,3 +29,5 @@ The client would like to have a customer sign-up program for their regulars, onc
 - Order books for delivery more quickly as their details are aleady on record.
 - Receive a loyalty discount for every 10 purchases.
 - The customer records should be accesible to employees only.
+
+### Development Process
