@@ -31,3 +31,7 @@ The client would like to have a customer sign-up program for their regulars, onc
 - The customer records should be accesible to employees only.
 
 ### Development Process
+
+The objective was overwhelming at first, having never attempted such a task, but we were split into teams, so, in brief, we were able to divide and conquer.
+
+The first step was planning how to approach the challenge, given our available knowledge at that point. I decided to...

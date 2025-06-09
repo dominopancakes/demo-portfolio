@@ -1,0 +1,3 @@
+# CI/CD Project
+
+This project demonstrates the basic principles of a CI/CD pipeline by using the following technologies...
